@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="146536" started-at="2019-12-24T18:27:35 IST" finished-at="2019-12-24T18:30:01 IST">
+    <groups>
+      <group name="HomePage">
+        <method signature="HomepageTest.verifyAddToCart()[pri:4, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifyAddToCart" class="com.qa.tests.HomepageTest"/>
+        <method signature="HomepageTest.verifyLogo()[pri:1, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifyLogo" class="com.qa.tests.HomepageTest"/>
+        <method signature="HomepageTest.verifyProductName()[pri:3, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifyProductName" class="com.qa.tests.HomepageTest"/>
+        <method signature="HomepageTest.verifySearch()[pri:2, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifySearch" class="com.qa.tests.HomepageTest"/>
+      </group> <!-- HomePage -->
+    </groups>
+    <test name="Default test" duration-ms="146536" started-at="2019-12-24T18:27:35 IST" finished-at="2019-12-24T18:30:01 IST">
+      <class name="com.qa.tests.HomepageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="setUp" is-config="true" duration-ms="33437" started-at="2019-12-24T18:27:35 IST" finished-at="2019-12-24T18:28:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogo()[pri:1, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifyLogo" duration-ms="169" started-at="2019-12-24T18:28:08 IST" finished-at="2019-12-24T18:28:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="tearDown" is-config="true" duration-ms="758" started-at="2019-12-24T18:28:08 IST" finished-at="2019-12-24T18:28:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="setUp" is-config="true" duration-ms="30618" started-at="2019-12-24T18:28:09 IST" finished-at="2019-12-24T18:28:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearch()[pri:2, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifySearch" duration-ms="4211" started-at="2019-12-24T18:28:40 IST" finished-at="2019-12-24T18:28:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="tearDown" is-config="true" duration-ms="806" started-at="2019-12-24T18:28:44 IST" finished-at="2019-12-24T18:28:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="setUp" is-config="true" duration-ms="32169" started-at="2019-12-24T18:28:45 IST" finished-at="2019-12-24T18:29:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyProductName()[pri:3, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifyProductName" duration-ms="99" started-at="2019-12-24T18:29:17 IST" finished-at="2019-12-24T18:29:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="tearDown" is-config="true" duration-ms="724" started-at="2019-12-24T18:29:17 IST" finished-at="2019-12-24T18:29:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="setUp" is-config="true" duration-ms="29560" started-at="2019-12-24T18:29:18 IST" finished-at="2019-12-24T18:29:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddToCart()[pri:4, instance:com.qa.tests.HomepageTest@5d76b067]" name="verifyAddToCart" duration-ms="13039" started-at="2019-12-24T18:29:47 IST" finished-at="2019-12-24T18:30:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomepageTest@5d76b067]" name="tearDown" is-config="true" duration-ms="796" started-at="2019-12-24T18:30:00 IST" finished-at="2019-12-24T18:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

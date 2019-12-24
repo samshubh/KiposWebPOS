@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Kipos Pos Automation using POM" verbose="1" >
+  
+  
+  <listeners>
+  
+    <listener class-name="com.qa.util.ExtentReporterNG"/>
+  
+  </listeners>
+  
+  <test name="Kipos POS Automation" >
+    <classes>
+      
+      <class name="com.qa.tests.LoginPageTest"/>
+      <class name="com.qa.tests.HomepageTest"/>
+    
+    </classes>
+    
+ </test>
+</suite>

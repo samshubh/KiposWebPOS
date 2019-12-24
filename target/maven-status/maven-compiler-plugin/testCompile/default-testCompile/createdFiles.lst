@@ -1,0 +1,10 @@
+com\qa\tests\CartPageTest.class
+com\qa\tests\LinksCount.class
+com\qa\tests\CloseRegisterTest.class
+com\qa\tests\HomepageTest.class
+com\qa\tests\MyAccountPageTest.class
+com\qa\tests\OpenRegisterPageTest.class
+com\qa\tests\ProductsPageTest.class
+com\qa\tests\LoginPageTest.class
+com\qa\tests\MyOrdersPageTest.class
+com\qa\tests\BrokenLinks.class
