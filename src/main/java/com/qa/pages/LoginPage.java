@@ -27,6 +27,9 @@ public class LoginPage extends TestBasePOS {
 	 @FindBy(xpath="//span[contains(text(),'Login')]")
 	 WebElement loginButton;
 	 
+	 @FindBy(xpath="//button[@id='fullName']")
+	 WebElement userName;
+	 
 	 
 	 public LoginPage() throws IOException
 	 {
@@ -57,5 +60,10 @@ public class LoginPage extends TestBasePOS {
 		  Thread.sleep(4000);
 		 
 		  return new OpenRegisterPage();
+	 }
+	 
+	 public String verifyUserName()
+	 {
+		return userName.getText();
 	 }
 }

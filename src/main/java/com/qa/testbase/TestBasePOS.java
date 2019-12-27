@@ -11,12 +11,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import com.qa.util.TestUtil;
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
 
 public class TestBasePOS {
 	
 	 public static WebDriver driver;
 	 
 	 public static Properties prop;
+	 
+	
 	 
 	
 	public TestBasePOS() throws IOException

@@ -1,0 +1,39 @@
+2019-12-27 16:13:09,831  INFO [main] LoginPageTest:71 - Opening the browser
+2019-12-27 16:13:28,477  INFO [main] LoginPageTest:75 - Creating an instance of login page
+2019-12-27 16:13:28,574  INFO [main] LoginPageTest:86 - Validating kipos logo
+2019-12-27 16:13:28,739  INFO [main] LoginPageTest:170 - Closing the browser
+2019-12-27 16:13:29,501  INFO [main] LoginPageTest:71 - Opening the browser
+2019-12-27 16:13:48,866  INFO [main] LoginPageTest:75 - Creating an instance of login page
+2019-12-27 16:13:48,873  INFO [main] LoginPageTest:98 - Validating kipos login text
+2019-12-27 16:13:48,950  INFO [main] LoginPageTest:170 - Closing the browser
+2019-12-27 16:13:50,252  INFO [main] LoginPageTest:111 - Reading the value from the excel sheet
+2019-12-27 16:13:54,066  INFO [main] LoginPageTest:71 - Opening the browser
+2019-12-27 16:14:10,839  INFO [main] LoginPageTest:75 - Creating an instance of login page
+2019-12-27 16:14:10,849  INFO [main] LoginPageTest:124 - Logging into the application
+2019-12-27 16:14:21,526  INFO [main] LoginPageTest:170 - Closing the browser
+2019-12-27 16:14:22,302  INFO [main] LoginPageTest:71 - Opening the browser
+2019-12-27 16:14:39,856  INFO [main] LoginPageTest:75 - Creating an instance of login page
+2019-12-27 16:14:39,863  INFO [main] LoginPageTest:124 - Logging into the application
+2019-12-27 16:14:50,740  INFO [main] LoginPageTest:170 - Closing the browser
+2019-12-27 16:14:51,497  INFO [main] LoginPageTest:111 - Reading the value from the excel sheet
+2019-12-27 16:14:51,587  INFO [main] LoginPageTest:71 - Opening the browser
+2019-12-27 16:15:06,303  INFO [main] LoginPageTest:75 - Creating an instance of login page
+2019-12-27 16:15:06,314  INFO [main] LoginPageTest:124 - Logging into the application
+2019-12-27 16:15:17,075  INFO [main] LoginPageTest:170 - Closing the browser
+2019-12-27 16:15:17,824  INFO [main] LoginPageTest:71 - Opening the browser
+2019-12-27 16:15:33,911  INFO [main] LoginPageTest:75 - Creating an instance of login page
+2019-12-27 16:15:33,917  INFO [main] LoginPageTest:124 - Logging into the application
+2019-12-27 16:15:44,739  INFO [main] LoginPageTest:170 - Closing the browser
+2019-12-27 16:15:45,521  INFO [main] LoginPageTest:71 - Opening the browser
+2019-12-27 16:16:03,034  INFO [main] LoginPageTest:75 - Creating an instance of login page
+2019-12-27 16:16:04,756  INFO [main] LoginPageTest:170 - Closing the browser
+2019-12-27 16:16:05,638 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-27 16:16:05,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-27 16:16:05,645 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-27 16:16:05,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-27 16:16:05,649 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/subham/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-12-27 16:16:06,159 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-27 16:16:06,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-27 16:16:06,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-27 16:16:06,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-27 16:16:06,162 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/subham/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
